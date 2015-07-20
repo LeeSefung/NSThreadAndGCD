@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  KCImageData.m
 //  MultiThread
 //
 //  Created by rimi on 15/7/16.
@@ -7,12 +7,8 @@
 //  https://github.com/LeeSefung/NSThreadAndGCD.git
 //
 
-#import <UIKit/UIKit.h>
+#import "KCImageData.h"
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@implementation KCImageData
 
 @end
-

@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  SixthViewController.h
 //  MultiThread
 //
-//  Created by rimi on 15/7/16.
+//  Created by rimi on 15/7/17.
 //  Copyright (c) 2015年 LeeSefung. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SixthViewController : UIViewController
 
 @end
-
